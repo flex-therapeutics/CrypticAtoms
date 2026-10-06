@@ -64,4 +64,4 @@ Optional Rosetta generation requires a separately installed, appropriately licen
 
 ## Release status and rights
 
-Prepared for author review. Repository visibility does not grant a software or data reuse license. No new blanket license has been assigned; author-owned code and third-party data retain their applicable rights. Public release and licensing should be finalized by the authors. No Rosetta binaries, proprietary model weights, credentials, or full inference environments are included.
+The benchmark repository is hosted at https://github.com/flex-therapeutics/CrypticAtoms. Code is distributed under the MIT license supplied by Flex Therapeutics (see `LICENSE`). Third-party reference data retain their applicable terms and provenance. No Rosetta binaries, proprietary model weights, credentials, or full inference environments are included.

@@ -1,7 +1,8 @@
 {
   ".github/workflows/validate.yml": "0840937f7874204ef0c3ed0e950f0980621022fe5ed9abc16b341e6f0a38a27c",
   ".gitignore": "39ed8aeaa47b3126a8f8eed46002f570864e308ccb901289bf37afa9f3fa76d3",
-  "README.md": "bb138f8f5890418cc56a14c3011dc305ec93a2d597832a7dfd4a83ef2bc5f6c9",
+  "LICENSE": "4328e1506ad63bd3f45f14bf53af99b0f9094b1de302c38219debec39da4d53a",
+  "README.md": "1e2ba960cf1e6c57aace7a602b5be5a94ca73da31dbff290b4413119507463fe",
   "analysis/ATLAS_train.csv": "626156e1bea5e73b369b8d62dd1457f9b5a31cc164b440ec8bbbbe10afd07aa8",
   "analysis/atlas_pdb_dates.csv": "431a4f8fc66f617dc42e8cb8f27e4eaac6223e692844079da2409cef00456a1e",
   "analysis/budget_comparison.csv": "c0d2075e58aa83cac8324bb123b60b772d06ae7888c105100f5e2472fcf78d96",
