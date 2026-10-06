@@ -54,7 +54,7 @@ The output includes distances to apo and holo, recovery tiers, matched alignment
 
 `references/manifest.csv` records the 42 prepared reference files, public PDB source links and SHA-256 hashes. The supplied files preserve the original preparations and formats; a fresh raw PDB download may differ in assembly, chain, residue numbering or missing-atom treatment. References with alternate holo structures share proteins; the two HIV RT comparisons retain distinct apo preparations.
 
-`analysis/` contains sample-level measurements and manuscript figure data. `controls/` contains archived Rosetta scores and optional generation/scoring protocols. `examples/` contains the six selected protein conformations shown in Figure 4 and a manifest with their reported metric values. `provenance/original_scripts/` preserves original coordinate-analysis and rendering sources for inspection; these depend on the original workspace and are not portable entry points. Use the documented metric modules and reproduction command instead.
+`analysis/` contains sample-level measurements and manuscript figure data. `controls/` contains archived Rosetta scores and optional generation/scoring protocols. `examples/` contains the six selected protein conformations shown in Figure 4 and a manifest with their reported metric values.
 
 ## Scope
 
