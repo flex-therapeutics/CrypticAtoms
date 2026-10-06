@@ -1,0 +1,86 @@
+{
+  "rdkit_version": "2022.09.5",
+  "source": "Same SDF graphs and gallery samples as the existing 3D views; no graph repairs.",
+  "examples": [
+    {
+      "target": "KRAS",
+      "method": "apo2mol",
+      "sample_idx": 0,
+      "smiles": "C[C@@]12CCC[C@@H](CC1)C2.C[C@@]12C[C@H]3CC/C(=C/CC4=N[C@@H](C1)c1cccnc1C4)[C@@H]2C3.C[C@H]1CC[C@H](C)C(C)(C)C1",
+      "heavy_atoms": 41,
+      "fragments": 3
+    },
+    {
+      "target": "KRAS",
+      "method": "molgen_ns1.0",
+      "sample_idx": 0,
+      "smiles": "CC[C@H](CCCC(C)C)c1c(N2CS[C@@](O)(C(=O)[O-])C2)c(Cc2ccccc2Cc2nccnc2C)cc2nn[nH]c12",
+      "heavy_atoms": 42,
+      "fragments": 1
+    },
+    {
+      "target": "Menin",
+      "method": "apo2mol",
+      "sample_idx": 0,
+      "smiles": "CC=Nc1ccc(C[C@@H](CC)NC(=O)C[C@H](CC)C(=O)CC)cc1",
+      "heavy_atoms": 24,
+      "fragments": 1
+    },
+    {
+      "target": "Menin",
+      "method": "molgen_ns1.0",
+      "sample_idx": 0,
+      "smiles": "C[C@@](O)(C(=O)[O-])N1CCNC[C@H]1CCc1cscn1",
+      "heavy_atoms": 19,
+      "fragments": 1
+    },
+    {
+      "target": "CB1",
+      "method": "apo2mol",
+      "sample_idx": 0,
+      "smiles": "CCC.CC[C@](C)(CC[C@H](C)C1=C[C@H](C)C(C)=C1)C[C@@H](CC[C@H]1CC[C@@H](C(C)C)CC1)[C@H]1CC=CCC[C@@H]1C",
+      "heavy_atoms": 39,
+      "fragments": 2
+    },
+    {
+      "target": "CB1",
+      "method": "molgen_ns1.0",
+      "sample_idx": 0,
+      "smiles": "CC[C@@H](C)[C@@H](C)CCc1ccc2c(c1)C(=O)c1cc(O[C@H](CCOP(=O)([O-])[O-])CC(=O)[O-])cc(-c3ccccc3CCO)c1C2=O",
+      "heavy_atoms": 46,
+      "fragments": 1
+    },
+    {
+      "target": "FUT8",
+      "method": "apo2mol",
+      "sample_idx": 0,
+      "smiles": "CC[C@H]1C[C@H]2C[C@]3(C[C@H](O)[C@H]2C(C)C1=O)C(=C[C@H]1[C@H](C)CC[C@@H](O)C[C@@H]1C)CC[C@H](C)[C@@H]3CC",
+      "heavy_atoms": 34,
+      "fragments": 1
+    },
+    {
+      "target": "FUT8",
+      "method": "molgen_ns1.0",
+      "sample_idx": 0,
+      "smiles": "C[C@@H](C(=O)N(C)[C@@H](C)[C@@H](C)C(=O)NC[C@H](O)[C@@H](C)CCc1ccccc1[C@@H](C)O)C(=O)N(CCC(=O)[O-])C(C)(C)CO",
+      "heavy_atoms": 42,
+      "fragments": 1
+    },
+    {
+      "target": "METTL14",
+      "method": "apo2mol",
+      "sample_idx": 0,
+      "smiles": "CC=CCC.CC[C@H](C)C(=C[C@@]12CC[C@@H]1C[C@H](C(C)C)C1=C(C(C)=CCC=C1)C(C)C2)[C@@]1(C)CCCC[C@H]1C",
+      "heavy_atoms": 39,
+      "fragments": 2
+    },
+    {
+      "target": "METTL14",
+      "method": "molgen_ns1.0",
+      "sample_idx": 0,
+      "smiles": "Cc1c(OCCc2cccc3c(C)ccc(C[C@@H]4C[C@H](O)C=C[C@H]4C)c23)cccc1[C@@H](C)C[C@@H](C)O",
+      "heavy_atoms": 36,
+      "fragments": 1
+    }
+  ]
+}

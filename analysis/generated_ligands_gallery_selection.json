@@ -1,0 +1,72 @@
+[
+  {
+    "target": "KRAS",
+    "method": "apo2mol",
+    "sample_idx": 0,
+    "protein": "external_inputs/apo2mol_aligned_1000/structures/KRAS/sample_0_protein.pdb",
+    "ligand": "external_inputs/ligand_export_20260917/bundle/KRAS/apo2mol/sample_000.sdf"
+  },
+  {
+    "target": "KRAS",
+    "method": "molgen_ns1.0",
+    "sample_idx": 0,
+    "protein": "external_inputs/generated_ligands/references/KRAS_sage_0.pdb",
+    "ligand": "external_inputs/ligand_export_20260917/bundle/KRAS/sage-flex/sample_000.sdf"
+  },
+  {
+    "target": "Menin",
+    "method": "apo2mol",
+    "sample_idx": 0,
+    "protein": "external_inputs/apo2mol_aligned_1000/structures/Menin/sample_0_protein.pdb",
+    "ligand": "external_inputs/ligand_export_20260917/bundle/Menin/apo2mol/sample_000.sdf"
+  },
+  {
+    "target": "Menin",
+    "method": "molgen_ns1.0",
+    "sample_idx": 0,
+    "protein": "external_inputs/generated_ligands/references/Menin_sage_0.pdb",
+    "ligand": "external_inputs/ligand_export_20260917/bundle/Menin/sage-flex/sample_000.sdf"
+  },
+  {
+    "target": "CB1",
+    "method": "apo2mol",
+    "sample_idx": 0,
+    "protein": "external_inputs/apo2mol_aligned_1000/structures/CB1/sample_0_protein.pdb",
+    "ligand": "external_inputs/ligand_export_20260917/bundle/CB1/apo2mol/sample_000.sdf"
+  },
+  {
+    "target": "CB1",
+    "method": "molgen_ns1.0",
+    "sample_idx": 0,
+    "protein": "external_inputs/generated_ligands/references/CB1_sage_0.pdb",
+    "ligand": "external_inputs/ligand_export_20260917/bundle/CB1/sage-flex/sample_000.sdf"
+  },
+  {
+    "target": "FUT8",
+    "method": "apo2mol",
+    "sample_idx": 0,
+    "protein": "external_inputs/apo2mol_1000/structures/FUT8/sample_0_protein.pdb",
+    "ligand": "external_inputs/ligand_export_20260917/bundle/FUT8/apo2mol/sample_000.sdf"
+  },
+  {
+    "target": "FUT8",
+    "method": "molgen_ns1.0",
+    "sample_idx": 0,
+    "protein": "external_inputs/generated_ligands/references/FUT8_sage_0.pdb",
+    "ligand": "external_inputs/ligand_export_20260917/bundle/FUT8/sage-flex/sample_000.sdf"
+  },
+  {
+    "target": "METTL14",
+    "method": "apo2mol",
+    "sample_idx": 0,
+    "protein": "external_inputs/apo2mol_1000/structures/METTL14/sample_0_protein.pdb",
+    "ligand": "external_inputs/ligand_export_20260917/bundle/METTL14/apo2mol/sample_000.sdf"
+  },
+  {
+    "target": "METTL14",
+    "method": "molgen_ns1.0",
+    "sample_idx": 0,
+    "protein": "external_inputs/generated_ligands/references/METTL14_sage_0.pdb",
+    "ligand": "external_inputs/ligand_export_20260917/bundle/METTL14/sage-flex/sample_000.sdf"
+  }
+]

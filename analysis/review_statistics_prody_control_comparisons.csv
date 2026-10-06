@@ -1,0 +1,7 @@
+tier,method_a,method_b,status,n_evaluable,n_missing,n_proteins,a_only,b_only,n_discordant,paired_difference,cluster_bootstrap_ci_low,cluster_bootstrap_ci_high,cluster_signflip_p,mcnemar_exact_p,cluster_signflip_p_holm_all_pairs,cluster_signflip_p_holm_controls_within_tier,cluster_signflip_p_holm_prody_supporting,mcnemar_exact_p_holm_all_pairs,mcnemar_exact_p_holm_controls_within_tier,mcnemar_exact_p_holm_prody_supporting
+1,prody_rfd3,rosetta_repack,tested,21,0,17,1,0,1,0.047619047619047616,0.0,0.14285714285714285,1.0,1.0,1.0,,1.0,1.0,,1.0
+1,prody_rfd3,rosetta_fastrelax,tested,21,0,17,2,4,6,-0.09523809523809523,-0.3333333333333333,0.13636363636363635,0.6875,0.6875,1.0,,1.0,1.0,,1.0
+2,prody_rfd3,rosetta_repack,identical,21,0,17,0,0,0,0.0,0.0,0.0,,,,,,,,
+2,prody_rfd3,rosetta_fastrelax,tested,21,0,17,2,3,5,-0.047619047619047616,-0.25,0.15789473684210525,1.0,1.0,1.0,,1.0,1.0,,1.0
+3,prody_rfd3,rosetta_repack,tested,21,0,17,0,1,1,-0.047619047619047616,-0.15789473684210525,0.0,1.0,1.0,1.0,,1.0,1.0,,1.0
+3,prody_rfd3,rosetta_fastrelax,tested,21,0,17,2,1,3,0.047619047619047616,-0.1111111111111111,0.19047619047619047,1.0,1.0,1.0,,1.0,1.0,,1.0

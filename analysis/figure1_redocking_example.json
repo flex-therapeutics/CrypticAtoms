@@ -1,0 +1,11 @@
+{
+  "target": "KRAS",
+  "method": "prody_rfd3",
+  "sample_idx": 7,
+  "pose_rank": 1,
+  "vina_score": -6.722,
+  "residue_clash_percent": 0,
+  "illustration": "Reference ligand redocked into a sampled pocket; pose accuracy is not evaluated",
+  "receptor_alignment": "pocket C-alpha to holo reference",
+  "ligand": "MOV"
+}

@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "tables_compared": [
+    "cumulative_tier1.csv",
+    "cutoff_recovery_per_target.csv",
+    "cutoff_recovery_summary.csv",
+    "docking_nonimproving_references.csv",
+    "docking_recovery_counts.csv",
+    "docking_recovery_per_target.csv",
+    "generated_ligands_geometry_per_target.csv",
+    "generated_ligands_per_target.csv",
+    "generated_ligands_size_motion_correlations.csv",
+    "joint_apo_holo_counts.csv",
+    "joint_apo_holo_per_pair.csv",
+    "review_docking_statistics_all_comparisons.csv",
+    "review_docking_statistics_pairwise.csv",
+    "review_docking_statistics_prody_supporting.csv",
+    "review_docking_statistics_rosetta_supporting.csv",
+    "review_docking_statistics_vs_apo.csv",
+    "review_statistics_control_comparisons.csv",
+    "review_statistics_pairwise.csv",
+    "review_statistics_prody_control_comparisons.csv",
+    "review_statistics_recovery.csv",
+    "review_statistics_single_residue_sensitivity.csv",
+    "review_statistics_target_complexity.csv",
+    "sensitivity_summary.csv",
+    "stable_per_target_2p0.csv"
+  ],
+  "structural_method_target_cells": 231,
+  "figure4_diagnostic_samples": 525,
+  "rtol": 1e-07,
+  "atol": 1e-09
+}

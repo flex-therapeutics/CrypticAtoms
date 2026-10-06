@@ -1,0 +1,16 @@
+{
+  "targets": [
+    "cAbl",
+    "HIV_RT__3V81",
+    "GLTP"
+  ],
+  "learned_examples": {
+    "cAbl": "boltz2",
+    "HIV_RT__3V81": "esmfold2",
+    "GLTP": "bioemu_refine"
+  },
+  "physics_example": "minimum Dsh across three controls",
+  "learned_example": "minimum Dsh among Tier-1 successes of the named method",
+  "scope": "illustrative successful coordinated changes; not a random benchmark subset",
+  "n_samples": 525
+}

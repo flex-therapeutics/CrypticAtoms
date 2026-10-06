@@ -1,0 +1,13 @@
+{
+  "rdkit_version": "2022.09.5",
+  "morgan_radius": 2,
+  "fingerprint_bits": 2048,
+  "use_chirality": false,
+  "reference_chemistry": "CCD ideal SDF",
+  "reference_extent": "crystal ligand in approved Figure 2 session",
+  "coordinate_radius": "unweighted heavy-atom RMS distance to centroid",
+  "fingerprint_filter": "sanitizable molecular graph; no repairs",
+  "summary_unit": "median per reference pair",
+  "correlation_unit": "within target and method, across samples",
+  "apo2mol_atom_count": "reference atom count supplied to generator"
+}

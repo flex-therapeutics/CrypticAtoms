@@ -1,0 +1,3 @@
+method,n_compared,targets_compared,median_abs_dh_change,max_abs_dh_change,sample_flips_t1,target_flips_t1,old_targets_t1,new_targets_t1,sample_flips_t2,target_flips_t2,old_targets_t2,new_targets_t2,sample_flips_t3,target_flips_t3,old_targets_t3,new_targets_t3
+rosetta_fastrelax,540,18,0.003219878052600267,0.21475177091312891,6,0,8,8,4,0,6,6,1,1,1,0
+rosetta_repack,540,18,0.00026129852185441393,0.12801283745724223,0,0,5,5,0,0,5,5,0,0,3,3

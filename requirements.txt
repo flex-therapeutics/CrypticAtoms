@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+biotite
+pydantic>=2
+pyarrow

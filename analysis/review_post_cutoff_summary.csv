@@ -1,0 +1,7 @@
+method,date,interpretation,n_targets,tier1,tier2,tier3,targets
+boltz2,2023-06-01,PDB release cutoff,4,1,0,0,CB1;SHP2;METTL14;FUT8
+esmfold2,2021-09-30,2021 checkpoint; September end boundary,8,5,4,2,CB1;HIV1_CA;Menin;THSR;THSR__7UTZ;SHP2;METTL14;FUT8
+bioemu_refine,2023-11-23,Documented PDB snapshot; not full training cutoff,4,1,0,0,CB1;SHP2;METTL14;FUT8
+rfd3_fix7,2024-12-16,Public training configuration deposition cutoff,2,0,0,0,METTL14;FUT8
+bbflow_refine,2019-12-04,Latest PDB release in public ATLAS training list,8,6,5,1,CB1;FUT8;HIV1_CA;METTL14;Menin;SHP2;THSR;THSR__7UTZ
+molgen_ns1.0,2023-03-29,Latest PDB release in supplied SAGE v1 prepared dataset,4,2,0,0,CB1;SHP2;METTL14;FUT8

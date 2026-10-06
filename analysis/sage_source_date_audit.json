@@ -1,0 +1,18 @@
+{
+  "dataset": "SAGE v1 prepared examples",
+  "n_unique_pdb": 34480,
+  "latest_initial_release": "2023-03-29",
+  "n_at_latest": 93,
+  "latest_examples": [
+    "7FUS",
+    "7FUT",
+    "7FUU",
+    "7FUV",
+    "7FUW",
+    "7FUX",
+    "7FUY",
+    "7FUZ"
+  ],
+  "date_source": "RCSB core-entry API; removed holdings API for obsolete entries",
+  "scope": "Source dataset date bound, not a checkpoint-specific training-membership audit"
+}

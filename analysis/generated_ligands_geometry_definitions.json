@@ -1,0 +1,9 @@
+{
+  "stretched_bonds": "distance > 1.25 times RDKit distance-geometry upper bound; percentage of ligand heavy-atom bonds",
+  "within_ligand_clash": "nonbonded heavy-atom pairs separated by >2 graph edges with distance <0.70 times RDKit DG lower bound; percentage of ligand heavy atoms in at least one such pair",
+  "protein_ligand_clash": "distance <0.75 times sum of RDKit vdW radii; percentage of ligand heavy atoms contacting protein heavy atoms",
+  "aggregation": "mean within each target, then show all 21 target means",
+  "missing_graphs": "unavailable, never interpreted as passing",
+  "apo2mol_limitation": "reconstructed connectivity is conditional on coordinates and cannot identify all absent bonds",
+  "bond_issue_percent": "percentage of parseable ligands with more than one connected component or at least one overstretched bond"
+}

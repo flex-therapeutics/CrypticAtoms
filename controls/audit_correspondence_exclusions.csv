@@ -1,0 +1,7 @@
+method,target,status,n_samples
+rosetta_fastrelax,CB1,error,30
+rosetta_fastrelax,GCGR,error,30
+rosetta_fastrelax,METTL14,error,30
+rosetta_repack,CB1,error,30
+rosetta_repack,GCGR,error,30
+rosetta_repack,METTL14,error,30

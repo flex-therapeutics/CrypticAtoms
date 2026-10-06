@@ -1,0 +1,22 @@
+target,reference_atom_issues
+p53_Y220C,"{""221"": ""incomplete heavy atoms at 221: {'OE1', 'CD', 'OE2'}""}"
+CB1,"{""192"": ""incomplete heavy atoms at 192: {'NZ', 'CE', 'CG', 'CD'}"", ""271"": ""incomplete heavy atoms at 271: {'CD1', 'CG2', 'CG1'}"", ""383"": ""incomplete heavy atoms at 383: {'OG'}"", ""387"": ""incomplete heavy atoms at 387: {'CD1', 'CG', 'CD2'}"", ""390"": ""incomplete heavy atoms at 390: {'OG'}""}"
+KRAS,"{""12"": ""residue identity mismatch 12""}"
+cAbl,{}
+HIF2alpha,{}
+HIV_RT,{}
+HIV1_CA,"{""54"": ""residue identity mismatch 54"", ""74"": ""residue identity mismatch 74""}"
+Menin,{}
+GCGR,"{""235"": ""incomplete heavy atoms at 235: {'CD1', 'CG2', 'CG1'}"", ""296"": ""incomplete heavy atoms at 296: {'OG1', 'CG2'}"", ""362"": ""residue identity mismatch 362""}"
+THSR,{}
+p53_Y220C__4AGQ,"{""221"": ""incomplete heavy atoms at 221: {'OE1', 'CD', 'OE2'}""}"
+HIF2alpha__6D0B,{}
+HIV_RT__3V81,{}
+THSR__7UTZ,{}
+Bcl-xL,"{""195"": ""missing residue 195""}"
+betaLG,{}
+NDPK-A,{}
+GLTP,"{""209"": ""duplicate or terminal atom at moving residue 209""}"
+SHP2,{}
+METTL14,"{""179"": ""incomplete heavy atoms at 179: {'CD1', 'CG2', 'CG1'}"", ""209"": ""incomplete heavy atoms at 209: {'CE', 'CG', 'NZ', 'CD'}""}"
+FUT8,{}

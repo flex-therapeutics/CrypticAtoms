@@ -1,0 +1,13 @@
+method,cutoff,date_field,basis,earlier_operator,group,recovered,n_pairs,recovery_percent
+boltz2,2023-06-01,holo_release,PDB release cutoff,lt,Earlier,7,17,41.1764705882353
+boltz2,2023-06-01,holo_release,PDB release cutoff,lt,Later,1,4,25.0
+esmfold2,2021-09-30,holo_release,2021 checkpoint; September end boundary,le,Earlier,9,13,69.23076923076923
+esmfold2,2021-09-30,holo_release,2021 checkpoint; September end boundary,le,Later,5,8,62.5
+bioemu_refine,2023-11-23,holo_release,Documented PDB snapshot; not full training cutoff,le,Earlier,12,17,70.58823529411765
+bioemu_refine,2023-11-23,holo_release,Documented PDB snapshot; not full training cutoff,le,Later,1,4,25.0
+rfd3_fix7,2024-12-16,holo_deposition,Public training configuration deposition cutoff,lt,Earlier,12,19,63.1578947368421
+rfd3_fix7,2024-12-16,holo_deposition,Public training configuration deposition cutoff,lt,Later,0,2,0.0
+bbflow_refine,2019-12-04,holo_release,Latest PDB release in public ATLAS training list,le,Earlier,7,13,53.84615384615385
+bbflow_refine,2019-12-04,holo_release,Latest PDB release in public ATLAS training list,le,Later,6,8,75.0
+molgen_ns1.0,2023-03-29,holo_release,Latest PDB release in supplied SAGE v1 prepared dataset,le,Earlier,11,17,64.70588235294117
+molgen_ns1.0,2023-03-29,holo_release,Latest PDB release in supplied SAGE v1 prepared dataset,le,Later,2,4,50.0

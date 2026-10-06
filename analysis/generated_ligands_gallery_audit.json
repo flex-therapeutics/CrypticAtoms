@@ -1,0 +1,72 @@
+[
+  {
+    "target": "KRAS",
+    "method": "apo2mol",
+    "sample_idx": 0,
+    "fit_rmsd": 2.367530107498169,
+    "min_ligand_protein_distance": 2.13800311088562
+  },
+  {
+    "target": "KRAS",
+    "method": "molgen_ns1.0",
+    "sample_idx": 0,
+    "fit_rmsd": 1.7268545627593994,
+    "min_ligand_protein_distance": 2.984572410583496
+  },
+  {
+    "target": "Menin",
+    "method": "apo2mol",
+    "sample_idx": 0,
+    "fit_rmsd": 1.44076406955719,
+    "min_ligand_protein_distance": 1.4618232250213623
+  },
+  {
+    "target": "Menin",
+    "method": "molgen_ns1.0",
+    "sample_idx": 0,
+    "fit_rmsd": 0.9459328055381775,
+    "min_ligand_protein_distance": 3.295668601989746
+  },
+  {
+    "target": "CB1",
+    "method": "apo2mol",
+    "sample_idx": 0,
+    "fit_rmsd": 1.504815697669983,
+    "min_ligand_protein_distance": 2.6951146125793457
+  },
+  {
+    "target": "CB1",
+    "method": "molgen_ns1.0",
+    "sample_idx": 0,
+    "fit_rmsd": 1.4883630275726318,
+    "min_ligand_protein_distance": 2.1836998462677
+  },
+  {
+    "target": "FUT8",
+    "method": "apo2mol",
+    "sample_idx": 0,
+    "fit_rmsd": 2.5822441577911377,
+    "min_ligand_protein_distance": 1.8162769079208374
+  },
+  {
+    "target": "FUT8",
+    "method": "molgen_ns1.0",
+    "sample_idx": 0,
+    "fit_rmsd": 1.4334688186645508,
+    "min_ligand_protein_distance": 2.9212558269500732
+  },
+  {
+    "target": "METTL14",
+    "method": "apo2mol",
+    "sample_idx": 0,
+    "fit_rmsd": 1.7012760639190674,
+    "min_ligand_protein_distance": 2.5042178630828857
+  },
+  {
+    "target": "METTL14",
+    "method": "molgen_ns1.0",
+    "sample_idx": 0,
+    "fit_rmsd": 1.6026382446289062,
+    "min_ligand_protein_distance": 3.3751039505004883
+  }
+]
